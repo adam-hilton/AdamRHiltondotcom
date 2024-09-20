@@ -1,0 +1,40 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: adam r hilton
+theme: ["PaperMod"]
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "images/IMG_2278.jpg" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 600 # custom size
+    # imageHeight: 600 # custom size
+    buttons:
+      - name: Work
+        url: "/work/"
+      - name: Recordings
+        url: "/recordings/"
+    ShowBreadCrumbs: true
+
+menu:
+  main:
+    - identifier: work
+      name: work
+      url: /work/
+      weight: 1
+    - identifier: recordings
+      name: recordings
+      url: /recordings/
+      weight: 2
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 3
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 4

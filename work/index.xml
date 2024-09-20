@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Works on adam r hilton</title>
+    <link>http://localhost:1313/work/</link>
+    <description>Recent content in Works on adam r hilton</description>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 13:19:40 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/work/work/</link>
+      <pubDate>Tue, 10 Sep 2024 13:19:40 -0500</pubDate>
+      <guid>http://localhost:1313/work/work/</guid>
+      <description>Upcoming Recent Chimera July 18, 2024 Pease Park, Austin, TX In celebration of World Listening Day, July 18th, 2024 at 7pm, Collide Arts and Phonography Austin presented a sound installation, CHIMERA, in which field recordings were be played continuously throughout lower Pease Park. Artists were encouraged to submit field recordings that were made outside of the context of Pease Park – other biomes than Pease Park, from other seasons than summer, in other contexts than an urban park, in order to find out what happens when one soundscape is grafted onto another</description>
+    </item>
+  </channel>
+</rss>
